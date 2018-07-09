@@ -79,9 +79,9 @@ p{
 
 /* Style the navbar */
 #navbar {
-	padding-top: 5 em;
 	overflow: hidden;
 	background-color: white;
+	margin-right: 0em;
 }
 
 /* Navbar links */
