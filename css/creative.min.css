@@ -39,7 +39,15 @@ h6 {
 }
 
 .bg-primary {
-    background-color: #f05f40 !important
+    background-color: #000000 !important;
+    padding-top: 20rem;
+    padding-bottom: calc(10rem - 56px);
+    background-image: url(../img/WearTech_logo_1974g.jpg);
+    background-position: center center;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
 }
 
 .bg-dark {
