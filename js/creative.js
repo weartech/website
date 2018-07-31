@@ -55,7 +55,16 @@
     scale: 0.3,
     distance: '0px'
   }, 300);
-
+  sr.reveal('.sr-portraits', {
+    duration: 200,
+    scale: 0.9,
+    distance: '0px'
+  }, 50);
+  sr.reveal('.sr-para', {
+    duration: 300,
+    scale: 0.9,
+    distance: '0px'
+  }, 200);
   // Magnific popup calls
   $('.popup-gallery').magnificPopup({
     delegate: 'a',
