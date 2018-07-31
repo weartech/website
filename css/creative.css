@@ -331,3 +331,6 @@ header.masthead p {
   background-size: cover;
   opacity: 0.8;
 } */
+.text-dropshadow{
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
+}
