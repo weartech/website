@@ -334,3 +334,14 @@ header.masthead p {
 .text-dropshadow{
   text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
 }
+
+#footer, #footer-logo{
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #F05F40;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+#footer-logo{
+  font-size: 2rem;
+}
