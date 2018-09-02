@@ -343,5 +343,11 @@ header.masthead p {
 }
 
 #footer-logo{
-  font-size: 2rem;
+  max-width: 300px;
+  height:auto;
+  display: block;
+  margin:20px auto;
+}
+.orange-text {
+  color: #ee4b28;
 }
