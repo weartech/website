@@ -3,3 +3,9 @@
     height: 20vw;
     object-fit: cover;
 }
+
+.frontpage-carousel-image {
+    width: 100%;
+    height: 40vw;
+    object-fit: cover;
+}
