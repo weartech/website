@@ -36,3 +36,11 @@
     width: 50%;
     bottom: 10vh;
 }
+
+.modal-title {
+    text-align: center;
+}
+
+.modal-title, .modal-body {
+    color: black;
+}
