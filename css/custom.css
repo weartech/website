@@ -9,3 +9,19 @@
     height: 40vw;
     object-fit: cover;
 }
+
+.carousel-caption {
+    width: 50%;
+    left: 10%;
+    font-size: 2vw; /* regulates font size when resizing browser*/
+    text-align: justify;
+    bottom: 0;
+}
+
+.carousel-caption a {
+    text-decoration: none;
+}
+
+.carousel-caption h3, .carousel-caption p {
+    color: white;
+}
