@@ -25,3 +25,14 @@
 .carousel-caption h3, .carousel-caption p {
     color: white;
 }
+
+.card-img-overlay { /* card position relative to ensure card-text css works */
+    position: relative;
+    height: auto;
+}
+
+.card-text { /* affects card text titles in research section */
+    position: absolute;
+    width: 50%;
+    bottom: 10vh;
+}
